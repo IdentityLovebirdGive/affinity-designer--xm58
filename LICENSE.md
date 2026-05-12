@@ -1,4 +1,4 @@
-# 
+# Enhance Affinity Designer for macOS with custom Template for Affinity Designer for macOS - cloud sync and auto-retouch, the #1 template. Includes cloud sync and auto-retouch for a
 
 
 
